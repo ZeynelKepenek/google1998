@@ -1,0 +1,47 @@
+.resim{
+    width: 1100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.search{
+    width: 1100px;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    background-color: beige;
+}
+.all{
+    width: 1100px;
+    height: auto;
+    margin: 3px auto 0;
+}
+.bir{
+    width: 35%;
+    height: 78px;
+    padding-top: 10px;
+    margin-right: 3px;
+    text-align: center;
+    background-color: aqua;
+   float: left;
+}
+
+.iki{
+    width: 28%;
+    height: 88.5px;
+    padding: auto;
+    margin-right: 3px;
+    text-align: center;
+    background-color: aquamarine;
+    float: left;
+    
+}
+
+.uc{
+    width: 36.4%;
+    height: 88px;
+    padding: auto 0;
+    text-align: center;
+    background-color: #62B3AA;
+    float: left;
+}
